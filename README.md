@@ -5,3 +5,5 @@
   - Example of the git repository with a docker container for the development environment [pt](https://github.com/vascmig/container_rails_ACH2006)|[en](https://gist.github.com/migvasc/93a0bc6e3d04d221435255e29ed557b8)
   - Example of Apache Spark simple [tutorial](https://gist.github.com/migvasc/da7548d3624e0e4c47f35caec9383c94)
   - Practical exercise with Apache Spark : [description](https://gist.github.com/migvasc/9033843420cb52b266c9975c32d0bce6)
+  - [Example of exercise for a coding dojo session](https://gist.github.com/migvasc/fe1ffc821ff326cea77f55e544e45536)
+  - [Example of a challenge for a programming competition](https://gist.github.com/migvasc/ac1c6ae67dd6fd69e2bc55e6b0f1ab67)
